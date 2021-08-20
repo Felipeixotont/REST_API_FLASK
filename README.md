@@ -14,6 +14,7 @@ The goal of this simple exercise is to create a "task list", which you can regis
 ![carbon](https://user-images.githubusercontent.com/43455579/130272678-73fc8766-183d-44ff-b26c-c6ff326e31ca.png)
 
 <h1 align="center">An exemple using Postman:</h1>
+
 ## Adding new tasks on the list
 
 ![pt1](https://user-images.githubusercontent.com/43455579/130273481-b9a0b308-7f1c-48b9-821d-3559c28903bf.png)
