@@ -1,11 +1,11 @@
 # TASK LIST
 The goal of this simple exercise is to create a "task list", which you can register new tasks, see all the tasks on the list, update a task, look for one specific task or delete a task.
 
-The attributes of the task list are:
-1 - ID
-2 - Responsavel
-3 - Tarefa
-4 - status
+<p>The attributes of the task list are:</p>
+1. ID
+2. Responsavel
+3. Tarefa
+4. status
 
 # The code:
 ![carbon](https://user-images.githubusercontent.com/43455579/130272678-73fc8766-183d-44ff-b26c-c6ff326e31ca.png)
