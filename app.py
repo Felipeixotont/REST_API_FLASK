@@ -4,16 +4,6 @@ import json
 app = Flask(__name__)
 
 taskList = list()
-'''
-[
-    {
-        'id': '',
-        'responsavel': '',
-        'tarefa': '',
-        'status': ''
-    }
-]
-'''
 
 
 # Exibir uma tarefa específica, alterar o status de uma tarefa especifica ou deletar uma tarefa especifica.
